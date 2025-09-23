@@ -61,11 +61,3 @@ Ranxware provides many optimizations for its scripts to alleviate many potential
 * [Arsenal](https://www.roblox.com/games/286090429/)
 * [Word Bomb](https://www.roblox.com/games/2653064683/)
 * [Underground War 2.0](https://www.roblox.com/games/9791603388/)
-
-## Supported Exploits (so far)
-* [Valex](https://www.valex.io)
-* [Volcano](https://volcano.wtf)
-* [Velocity](https://getvelocity.lol)
-* [Zenith?](https://zenith.win) (not tested)
-* [Wave?](https://getwave.gg) (not tested)
-* [Azrix?](https://azrix.net) (not tested)
