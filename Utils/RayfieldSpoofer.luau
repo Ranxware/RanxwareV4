@@ -12,6 +12,11 @@ for _,v in pairs(game.CoreGui:GetDescendants()) do
 	end
 end
 
+if not Spoofer.UI then
+	warn("Unable to find Rayfield Interface")
+	return
+end
+
 local UiMain = UI.Main
 local UiElements = UiMain.Elements
 
