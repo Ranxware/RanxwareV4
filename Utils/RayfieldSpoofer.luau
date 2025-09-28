@@ -8,9 +8,9 @@ Spoofer.UI = nil :: ScreenGui?
 local CoreGui = cloneref(game.CoreGui)
 
 if CoreGui:FindFirstChild("RobloxGui") then
-	UI = CoreGui.RobloxGui:FindFirstChild("Rayfield")
+	Spoofer.UI = CoreGui.RobloxGui:FindFirstChild("Rayfield")
 else
-	UI = CoreGui:FindFirstChild("Rayfield")
+	Spoofer.UI = CoreGui:FindFirstChild("Rayfield")
 end
 
 if not Spoofer.UI then
@@ -18,7 +18,7 @@ if not Spoofer.UI then
 	return
 end
 
-local UiMain = UI.Main
+local UiMain = Spoofer.UI.Main
 local UiElements = UiMain.Elements
 
 function Spoofer:SetElementVisible(TabName: string, ElementName: string, Value: boolean)
