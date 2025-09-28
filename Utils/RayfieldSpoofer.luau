@@ -7,7 +7,9 @@ Spoofer.UI = nil :: ScreenGui?
 
 local CoreGui = cloneref(game.CoreGui)
 
-if CoreGui:FindFirstChild("RobloxGui") then
+if gethui() then
+	UI = gethui():FindFirstChild("Rayfield")
+elseif CoreGui:FindFirstChild("RobloxGui") then
 	UI = CoreGui.RobloxGui:FindFirstChild("Rayfield")
 else
 	UI = CoreGui:FindFirstChild("Rayfield")
