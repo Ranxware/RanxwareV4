@@ -1,6 +1,3 @@
---!optimize 2
---!nocheck
-
 local Spoofer = {}
 
 Spoofer.UI = nil :: ScreenGui?
