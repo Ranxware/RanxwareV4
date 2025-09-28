@@ -5,10 +5,19 @@ local Spoofer = {}
 
 Spoofer.UI = nil :: ScreenGui?
 
-for _,v in pairs(game.CoreGui:GetDescendants()) do
-	if v:IsA("ScreenGui") and v.Name == "Rayfield" and v.Enabled then
-		UI = v
-		break
+if (game.CoreGui:FindFirstChild("RobloxGui") then
+	for _,v in pairs(game.CoreGui.RobloxGui:GetChildren()) do
+		if v:IsA("ScreenGui") and v.Name == "Rayfield" and v.Enabled then
+			UI = v
+			break
+		end
+	end
+else
+	for _,v in pairs(game.CoreGui:GetChildren()) do
+		if v:IsA("ScreenGui") and v.Name == "Rayfield" and v.Enabled then
+			UI = v
+			break
+		end
 	end
 end
 
