@@ -8,26 +8,28 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Ranxware/RanxwareV4/m
 
 > insert ranxware image here idk
 > 
-> (image todo: add game thumbnails, either upcoming or unrelated, and add ranxware text in front; simple.)
+> (image todo: add game thumbnails, either upcoming or unrelated, with blur effect; add **Ranxware V4** text in front; v4 text will be glass; simple.)
 
 ## Overview
+**Ranxware V4** is a simple, yet complex and powerful scripting tool that is targetted for exploiters.
+
 Completely rewritten and rebuilt from the ground up, **Ranxware** can give you many advantages against others in numerous Roblox games, while maintaining to be undetected and constantly updated.
 
 With many features and tools across a variety of games, Ranxware is designed to fit appropriately for both **blatant** & **closet** cheaters.
 
-Ranxware also includes smooth displays for additional actions and indications, along with its UI interface from [**Rayfield**](https://docs.sirius.menu/rayfield).
+Ranxware also includes smooth displays for additional actions and indications, along with the UI interface from [**Rayfield**](https://docs.sirius.menu/rayfield).
 
 > [!important]
 > Ranxware's script files are **obfuscated** to prevent further detections & patches towards the exploit.
 >
-> It is probably not recommended if you're using a low-end script executor.
+> It is somewhat not recommended if you're using a low-end script executor.
 
 <hr>
 
 ## Features
 
 ### Blatant Cheating
-Specifically for cheaters who prefer being blatant, Ranxware has exclusive features that are quicker, automatic, and much more performant.
+Specifically for cheaters who prefer using blatant cheats, Ranxware has exclusive features that are more automated, expeditious, and much more performant.
 Some features of which can include:
 * Ragebot Features (e.g. Killaura)
 * Advanced _(and Undetected)_ Spoofers
@@ -35,7 +37,7 @@ Some features of which can include:
 * ...and many more!
 
 ### Closet Cheating
-Ranxware is also designed for cheaters who want to be kept undetected while still gaining advantages against their opponents.
+Ranxware is also designed for cheaters who want to stay undetected by moderators while still gaining advantages against their opponents.
 Some features of which can include:
 * Silent Aim
 * ESP Visuals
@@ -43,10 +45,10 @@ Some features of which can include:
 * ...and much more!
 
 ### Anti-Cheat Bypasses
-Ranxware provides enhanced technology which can potentially bypass anti-cheats within its supported games.
+Ranxware had developed powerful technology that can _potentially_ bypass anti-cheats within its supported games (especially games with more security).
 
 ### Optimizations
-Ranxware provides many optimizations for its scripts to alleviate many potential crashes and bugs, while functioning at its high-quality status.
+Ranxware provides many optimizations for its scripts to reduce many potential crashes/bugs, while functioning at its adequate, high-quality status.
 
 <hr>
 
