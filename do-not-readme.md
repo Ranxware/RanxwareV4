@@ -55,11 +55,8 @@ Ranxware provides many optimizations for its scripts to reduce many potential cr
 ## Upcoming Games
 * [Untitled Tag Game](https://www.roblox.com/games/14044547200/)
 * [Murderers vs Sheriffs Duels](https://www.roblox.com/games/12355337193/)
-* [SHARP](https://www.roblox.com/games/113506071094099/)
+* [Hood Wars](https://www.roblox.com/games/113650349345698/)
 * [DUELS Murderers VS Sheriffs](https://www.roblox.com/games/135856908115931/)
 * [Murderers vs Sheriffs](https://www.roblox.com/games/5154858502/)
 * [Flee the Facility](https://www.roblox.com/games/893973440/)
-* [Hypershot](https://www.roblox.com/games/17516596118/)
-* [Arsenal](https://www.roblox.com/games/286090429/)
-* [Word Bomb](https://www.roblox.com/games/2653064683/)
 * [Underground War 2.0](https://www.roblox.com/games/9791603388/)
