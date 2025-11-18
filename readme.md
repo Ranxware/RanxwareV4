@@ -7,7 +7,7 @@
 > * One-Checkpoint Key System _(Valid for 1 Day)_
 > * Script Loader Gui _(Game Detection & Script Loader)_
 > * More Upcoming/Unreleased Features in **FLICK**
-> * **Murderers VS Sherrifs Duels** Script Pre-release
+> * **Murderers VS Sherrifs Duels** Script Release Preview
 
 > [!caution]
 > **PLEASE USE A _HIGH-END EXECUTOR_ (e.g. [Zenith](https://zenith.win), [Wave](https://getwave.gg), [Volcano](https://volcano.wtf), etc.) AS THE SCRIPT WILL BREAK, CAUSE ERRORS, AND MAY POTENTIALLY LEAD TO ANTICHEAT DETECTIONS!**
