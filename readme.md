@@ -9,6 +9,7 @@
 > * More Upcoming/Unreleased Features in **FLICK**
 > * Custom Config Saving
 > 	* Preset Configs
+> * and more...
 
 > [!caution]
 > **PLEASE USE A _HIGH-END EXECUTOR_ (e.g. [Zenith](https://zenith.win), [Wave](https://getwave.gg), [Volcano](https://volcano.wtf), etc.) AS THE SCRIPT WILL BREAK, CAUSE ERRORS, AND MAY POTENTIALLY LEAD TO ANTICHEAT DETECTIONS!**
